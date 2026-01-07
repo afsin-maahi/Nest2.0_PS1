@@ -1,0 +1,194 @@
+Form Details,Country,Site Number,Subject Name,Visit Name,Page Name,Visit date,Subject Status,# of Days Missing
+Visit Level,FRA,Site 2,Subject 5,Screening,Form 1,07 OCT 2025,Screening,38.0
+Visit Level,FRA,Site 2,Subject 5,Screening,Form 2,07 OCT 2025,Screening,38.0
+Visit Level,FRA,Site 2,Subject 5,Screening,Form 3,07 OCT 2025,Screening,38.0
+Visit Level,FRA,Site 2,Subject 5,Screening,Form 4,07 OCT 2025,Screening,38.0
+Visit Level,FRA,Site 2,Subject 5,Screening,Form 5,07 OCT 2025,Screening,38.0
+Visit Level,FRA,Site 2,Subject 5,Screening,Form 6,07 OCT 2025,Screening,38.0
+Visit Level,FRA,Site 2,Subject 5,Survival,Form 7,,Screening,
+Visit Level,FRA,Site 2,Subject 5,W1D3,Form 8,30 OCT 2025,Screening,15.0
+Visit Level,FRA,Site 2,Subject 5,W1D3,Form 9,30 OCT 2025,Screening,15.0
+Visit Level,FRA,Site 2,Subject 5,W1D3,Form 10,30 OCT 2025,Screening,15.0
+Visit Level,FRA,Site 2,Subject 5,W1D3,Form 11,30 OCT 2025,Screening,15.0
+Visit Level,FRA,Site 2,Subject 5,W1D3,Form 12,30 OCT 2025,Screening,15.0
+Visit Level,FRA,Site 2,Subject 5,W1D3,Form 13,30 OCT 2025,Screening,15.0
+Visit Level,FRA,Site 2,Subject 5,W1D3,Form 14,30 OCT 2025,Screening,15.0
+Visit Level,FRA,Site 2,Subject 5,W1D4,Form 9,,Screening,
+Visit Level,FRA,Site 2,Subject 5,W1D4,Form 10,,Screening,
+Visit Level,FRA,Site 3,Subject 7,Survival,Form 7,,On Trial,
+Visit Level,FRA,Site 4,Subject 9,End of Treatment,Form 10,16 SEP 2025,On Trial,59.0
+Visit Level,FRA,Site 4,Subject 9,Follow-up_Week 8,Form 15,,On Trial,
+Visit Level,FRA,Site 4,Subject 9,Survival,Form 7,,On Trial,
+Visit Level,FRA,Site 4,Subject 10,End of Treatment,Form 10,14 OCT 2025,On Trial,31.0
+Visit Level,FRA,Site 4,Subject 10,Follow-up,Form 15,,On Trial,
+Visit Level,FRA,Site 4,Subject 10,Survival,Form 7,,On Trial,
+Visit Level,FRA,Site 4,Subject 10,W13D1,Form 16,26 AUG 2025,On Trial,80.0
+Visit Level,FRA,Site 4,Subject 10,W13D1,Form 17,26 AUG 2025,On Trial,80.0
+Visit Level,FRA,Site 4,Subject 10,W16D1,Form 8,16 SEP 2025,On Trial,59.0
+Visit Level,FRA,Site 4,Subject 10,W16D1,Form 18,16 SEP 2025,On Trial,59.0
+Summary Page,AUT,Site 5,Subject 11,Disposition,Form 19,,Screening,
+Visit Level,AUT,Site 5,Subject 11,Screening,Form 20,,Screening,
+Visit Level,AUT,Site 6,Subject 12,Screening,Form 1,24 SEP 2025,Screening,51.0
+Visit Level,AUT,Site 6,Subject 12,Screening,Form 3,24 SEP 2025,Screening,51.0
+Visit Level,AUT,Site 6,Subject 12,Screening,Form 4,24 SEP 2025,Screening,51.0
+Visit Level,AUT,Site 6,Subject 12,Screening,Form 21,24 SEP 2025,Screening,51.0
+Visit Level,AUT,Site 6,Subject 12,Screening,Form 22,24 SEP 2025,Screening,51.0
+Visit Level,AUT,Site 6,Subject 12,Screening,Form 6,24 SEP 2025,Screening,51.0
+Visit Level,AUT,Site 6,Subject 12,Survival,Form 7,,Screening,
+Visit Level,AUT,Site 6,Subject 12,W1D1,Form 23,14 OCT 2025,Screening,31.0
+Visit Level,AUT,Site 6,Subject 12,W1D1,Form 16,14 OCT 2025,Screening,31.0
+Visit Level,AUT,Site 6,Subject 12,W1D3,Form 9,16 OCT 2025,Screening,29.0
+Visit Level,AUT,Site 6,Subject 12,W1D3,Form 10,16 OCT 2025,Screening,29.0
+Visit Level,AUT,Site 6,Subject 12,W1D3,Form 14,16 OCT 2025,Screening,29.0
+Visit Level,AUT,Site 6,Subject 12,W1D4,Form 9,17 OCT 2025,Screening,28.0
+Visit Level,AUT,Site 6,Subject 12,W1D4,Form 10,17 OCT 2025,Screening,28.0
+Visit Level,AUT,Site 6,Subject 12,W1D5,Form 9,,Screening,
+Visit Level,AUT,Site 6,Subject 12,W1D5,Form 10,,Screening,
+Visit Level,AUT,Site 6,Subject 12,W1D5,Form 24,,Screening,
+Visit Level,AUT,Site 6,Subject 12,W2D3,Form 9,,Screening,
+Visit Level,AUT,Site 6,Subject 12,W2D3,Form 10,,Screening,
+Visit Level,AUT,Site 6,Subject 12,W2D3,Form 24,,Screening,
+Visit Level,AUT,Site 6,Subject 12,W2D7,Form 16,,Screening,
+Visit Level,AUT,Site 6,Subject 12,W2D7,Form 25,,Screening,
+Visit Level,AUT,Site 6,Subject 12,W2D7,Form 24,,Screening,
+Visit Level,AUT,Site 6,Subject 13,Screening,Form 1,08 OCT 2025,Screen Failure,37.0
+Visit Level,AUT,Site 6,Subject 13,Screening,Form 2,08 OCT 2025,Screen Failure,37.0
+Visit Level,AUT,Site 6,Subject 13,Screening,Form 26,08 OCT 2025,Screen Failure,37.0
+Visit Level,AUT,Site 6,Subject 13,Screening,Form 6,08 OCT 2025,Screen Failure,37.0
+Visit Level,AUT,Site 6,Subject 13,Screening,Form 20,08 OCT 2025,Screen Failure,37.0
+Visit Level,ISR,Site 7,Subject 14,Screening,Form 20,10 APR 2025,On Trial,218.0
+Visit Level,ISR,Site 7,Subject 14,Survival,Form 7,,On Trial,
+Summary Page,SGP,Site 11,Subject 21,Disposition,Form 19,,Screening,
+Visit Level,SGP,Site 11,Subject 21,Screening,Form 1,14 SEP 2025,Screening,61.0
+Visit Level,KOR,Site 12,Subject 22,Screening,Form 5,23 SEP 2025,On Trial,52.0
+Visit Level,KOR,Site 12,Subject 22,Survival,Form 7,,On Trial,
+Visit Level,ESP,Site 14,Subject 26,Survival,Form 7,,On Trial,
+Visit Level,ESP,Site 14,Subject 32,Follow-up_Week 16,Form 15,,On Trial,
+Visit Level,ESP,Site 14,Subject 32,Survival,Form 7,,On Trial,
+Visit Level,ESP,Site 14,Subject 36,Survival,Form 7,,On Trial,
+Visit Level,ESP,Site 15,Subject 44,W22D1,Form 8,17 SEP 2025,On Trial,58.0
+Visit Level,ESP,Site 15,Subject 44,W22D1,Form 18,17 SEP 2025,On Trial,58.0
+Visit Level,ESP,Site 15,Subject 44,W22D1,Form 12,17 SEP 2025,On Trial,58.0
+Visit Level,ESP,Site 15,Subject 44,W22D1,Form 13,17 SEP 2025,On Trial,58.0
+Visit Level,ESP,Site 15,Subject 45,End of Treatment,Form 27,07 AUG 2025,Discontinued,99.0
+Visit Level,ESP,Site 15,Subject 45,End of Treatment,Form 28,07 AUG 2025,Discontinued,99.0
+Visit Level,ESP,Site 15,Subject 45,End of Treatment,Form 17,07 AUG 2025,Discontinued,99.0
+Visit Level,ESP,Site 15,Subject 45,End of Treatment,Form 29,07 AUG 2025,Discontinued,99.0
+Visit Level,ESP,Site 15,Subject 47,W13D1,Form 8,19 AUG 2025,On Trial,87.0
+Visit Level,ESP,Site 15,Subject 47,W13D1,Form 18,19 AUG 2025,On Trial,87.0
+Visit Level,ESP,Site 15,Subject 47,W16D1,Form 8,08 SEP 2025,On Trial,67.0
+Visit Level,ESP,Site 15,Subject 47,W16D1,Form 18,08 SEP 2025,On Trial,67.0
+Visit Level,ESP,Site 15,Subject 47,W16D1,Form 12,08 SEP 2025,On Trial,67.0
+Visit Level,ESP,Site 15,Subject 47,W16D1,Form 13,08 SEP 2025,On Trial,67.0
+Visit Level,ESP,Site 15,Subject 47,W19D1,Form 8,30 SEP 2025,On Trial,45.0
+Visit Level,ESP,Site 15,Subject 47,W19D1,Form 18,30 SEP 2025,On Trial,45.0
+Visit Level,ESP,Site 15,Subject 47,W19D1,Form 10,30 SEP 2025,On Trial,45.0
+Visit Level,ESP,Site 15,Subject 47,W22D1,Form 8,21 OCT 2025,On Trial,24.0
+Visit Level,ESP,Site 15,Subject 47,W22D1,Form 18,21 OCT 2025,On Trial,24.0
+Visit Level,ESP,Site 15,Subject 47,W22D1,Form 12,21 OCT 2025,On Trial,24.0
+Visit Level,ESP,Site 15,Subject 47,W8D3,Form 10,22 JUL 2025,On Trial,115.0
+Visit Level,ESP,Site 15,Subject 50,Screening,Form 26,,Screen Failure,
+Visit Level,ESP,Site 15,Subject 50,Screening,Form 20,,Screen Failure,
+Visit Level,ESP,Site 15,Subject 52,Screening,Form 5,23 SEP 2025,On Trial,52.0
+Visit Level,ESP,Site 15,Subject 52,Survival,Form 7,,On Trial,
+Visit Level,ESP,Site 17,Subject 60,Screening,Form 1,15 SEP 2025,Screen Failure,60.0
+Visit Level,ESP,Site 17,Subject 60,Screening,Form 2,15 SEP 2025,Screen Failure,60.0
+Visit Level,ESP,Site 17,Subject 60,Screening,Form 20,15 SEP 2025,Screen Failure,60.0
+Visit Level,ESP,Site 17,Subject 61,Screening,Form 20,24 SEP 2025,Screening,51.0
+Visit Level,ESP,Site 17,Subject 61,Survival,Form 7,,Screening,
+Visit Level,ESP,Site 17,Subject 61,W1D3,Form 10,22 OCT 2025,Screening,23.0
+Visit Level,ESP,Site 17,Subject 62,Screening,Form 20,29 SEP 2025,Screening,46.0
+Visit Level,ESP,Site 17,Subject 62,Survival,Form 7,,Screening,
+Visit Level,USA,Site 18,Subject 67,Follow-up_Week 40,Form 15,,On Trial,
+Visit Level,USA,Site 18,Subject 74,Survival,Form 7,,On Trial,
+Visit Level,USA,Site 18,Subject 75,Survival,Form 7,,On Trial,
+Visit Level,USA,Site 19,Subject 78,End of Treatment,Form 27,24 SEP 2025,On Trial,51.0
+Visit Level,USA,Site 19,Subject 78,End of Treatment,Form 23,24 SEP 2025,On Trial,51.0
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 27,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 30,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 28,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 23,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 10,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 16,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 25,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 31,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 17,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 32,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 24,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up,Form 29,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Follow-up_Week 8,Form 15,,On Trial,
+Visit Level,USA,Site 19,Subject 78,Survival,Form 7,,On Trial,
+Visit Level,USA,Site 19,Subject 78,W16D1,Form 23,30 JUL 2025,On Trial,107.0
+Visit Level,USA,Site 19,Subject 80,Screening,Form 5,08 SEP 2025,On Trial,67.0
+Visit Level,USA,Site 19,Subject 80,Survival,Form 7,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W1D3,Form 9,01 OCT 2025,On Trial,44.0
+Visit Level,USA,Site 19,Subject 80,W1D3,Form 14,01 OCT 2025,On Trial,44.0
+Visit Level,USA,Site 19,Subject 80,W1D4,Form 9,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W1D4,Form 10,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W1D4,Form 24,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W1D5,Form 9,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W1D5,Form 10,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W1D5,Form 24,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W2D3,Form 9,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W2D3,Form 10,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W2D3,Form 24,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W2D7,Form 16,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W2D7,Form 25,,On Trial,
+Visit Level,USA,Site 19,Subject 80,W2D7,Form 24,,On Trial,
+Visit Level,USA,Site 21,Subject 83,Survival,Form 7,,On Trial,
+Visit Level,USA,Site 21,Subject 83,W16D1,Form 8,12 SEP 2025,On Trial,63.0
+Visit Level,USA,Site 21,Subject 83,W16D1,Form 18,12 SEP 2025,On Trial,63.0
+Visit Level,USA,Site 21,Subject 83,W19D1,Form 8,3 OCT 2025,On Trial,42.0
+Visit Level,USA,Site 21,Subject 83,W19D1,Form 18,3 OCT 2025,On Trial,42.0
+Visit Level,USA,Site 21,Subject 83,W19D1,Form 16,3 OCT 2025,On Trial,42.0
+Visit Level,USA,Site 21,Subject 83,W19D1,Form 25,3 OCT 2025,On Trial,42.0
+Visit Level,USA,Site 21,Subject 83,W19D1,Form 31,3 OCT 2025,On Trial,42.0
+Visit Level,USA,Site 21,Subject 83,W19D1,Form 17,3 OCT 2025,On Trial,42.0
+Visit Level,USA,Site 21,Subject 83,W22D1,Form 8,22 OCT 2025,On Trial,23.0
+Visit Level,USA,Site 21,Subject 83,W22D1,Form 18,22 OCT 2025,On Trial,23.0
+Visit Level,USA,Site 21,Subject 83,W22D1,Form 23,22 OCT 2025,On Trial,23.0
+Visit Level,USA,Site 21,Subject 83,W22D1,Form 16,22 OCT 2025,On Trial,23.0
+Visit Level,USA,Site 21,Subject 83,W22D1,Form 25,22 OCT 2025,On Trial,23.0
+Visit Level,USA,Site 21,Subject 83,W22D1,Form 11,22 OCT 2025,On Trial,23.0
+Visit Level,USA,Site 21,Subject 83,W22D1,Form 12,22 OCT 2025,On Trial,23.0
+Visit Level,USA,Site 21,Subject 83,W22D1,Form 13,22 OCT 2025,On Trial,23.0
+Visit Level,USA,Site 21,Subject 83,W22D1,Form 33,22 OCT 2025,On Trial,23.0
+Visit Level,USA,Site 21,Subject 83,W22D1,Form 29,22 OCT 2025,On Trial,23.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 27,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 1,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 5,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 34,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 23,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 10,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 16,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 35,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 25,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 31,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 17,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 21,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 22,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 36,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 6,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 37,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 38,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 39,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 40,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 20,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Screening,Form 41,24 OCT 2025,Screening,21.0
+Visit Level,USA,Site 22,Subject 86,Survival,Form 7,,Screening,
+Visit Level,USA,Site 23,Subject 87,Survival,Form 7,,On Trial,
+Visit Level,USA,Site 23,Subject 87,W25D1,Form 16,12 NOV 2025,On Trial,2.0
+Visit Level,USA,Site 23,Subject 87,W25D1,Form 25,12 NOV 2025,On Trial,2.0
+Visit Level,USA,Site 23,Subject 87,W25D1,Form 42,12 NOV 2025,On Trial,2.0
+Visit Level,USA,Site 23,Subject 88,Screening,Form 6,19 SEP 2025,On Trial,56.0
+Visit Level,USA,Site 23,Subject 88,Survival,Form 7,,On Trial,
+Visit Level,USA,Site 23,Subject 88,W2D7,Form 16,,On Trial,
+Visit Level,USA,Site 23,Subject 88,W2D7,Form 25,,On Trial,
+Visit Level,USA,Site 23,Subject 88,W2D7,Form 24,,On Trial,
+Visit Level,CHN,Site 26,Subject 93,Screening,Form 1,,Screening,
+Visit Level,CHN,Site 26,Subject 93,Screening,Form 2,,Screening,
+Visit Level,CHN,Site 26,Subject 93,Screening,Form 6,,Screening,
+Visit Level,CHN,Site 26,Subject 93,Screening,Form 20,,Screening,
+Visit Level,CHN,Site 26,Subject 93,Screening,Form 24,,Screening,
+Visit Level,CHN,Site 27,Subject 96,Survival,Form 7,,On Trial,
+Visit Level,CHN,Site 27,Subject 97,Survival,Form 7,,On Trial,

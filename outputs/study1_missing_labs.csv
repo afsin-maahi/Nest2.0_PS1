@@ -1,0 +1,220 @@
+Country,Site number,Subject,Visit,Form Name,Lab category,Lab Date,Test Name,Test description,Issue
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,ALB,Albumin,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,ALP,"Alkaline
+phosphatase",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,ALT,"Alanine
+aminotransferase",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,AST,"Aspartate
+aminotransferase",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,BUN,Blood urea nitrogen,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,CA,Calcium,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,CREAT,Creatinine,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,CREATCLR,Creatinine clearance,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,GGT,"Gamma glutamyl
+transferase",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,GLUCSF,"Glucose, serum,
+fasting",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,K,Potassium,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,LDH,"Lactate
+dehydrogenase",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,MG,Magnesium,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,SODIUM,Sodium,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 1,CHEMISTRY,24-SEP-2025,URATE,Uric acid,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 2,HEMATOLOGY,24-SEP-2025,APTT,"Activated partial
+thromboplastin time",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 2,HEMATOLOGY,24-SEP-2025,INR,"Prothrombin intl.
+normalized ratio",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 3,HEMATOLOGY,24-SEP-2025,BASO,Basophils (absolute),Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 3,HEMATOLOGY,24-SEP-2025,EOS,"Eosinophils
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 3,HEMATOLOGY,24-SEP-2025,HCT,Hematocrit,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 3,HEMATOLOGY,24-SEP-2025,HGB,Hemoglobin,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 3,HEMATOLOGY,24-SEP-2025,LYM,"Lymphocytes
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 3,HEMATOLOGY,24-SEP-2025,MCV,"Ery. mean
+corpuscular volume",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 3,HEMATOLOGY,24-SEP-2025,NEUT,"Neutrophils
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 3,HEMATOLOGY,24-SEP-2025,PLAT,Platelets,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 3,HEMATOLOGY,24-SEP-2025,RBC,Erythrocytes,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 3,HEMATOLOGY,24-SEP-2025,WBC,Leukocytes,Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 4,CHEMISTRY,24-SEP-2025,T4FR,"Thyroxin, Free T4",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 4,CHEMISTRY,24-SEP-2025,TSH,"Thyroid stimulating
+hormone",Missing Lab name
+AUT,Site 6,Subject 12,Screening,Form 5,URINALYSIS,24-SEP-2025,UPHST,Urine pH dipstick,Missing Lab name
+AUT,Site 6,Subject 12,Unplanned Visit (1),Form 6,HEMATOLOGY,26-OCT-2025,BASO,Basophils (absolute),Missing Lab name
+AUT,Site 6,Subject 12,Unplanned Visit (1),Form 6,HEMATOLOGY,26-OCT-2025,EOS,"Eosinophils
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,Unplanned Visit (1),Form 6,HEMATOLOGY,26-OCT-2025,HCT,Hematocrit,Missing Lab name
+AUT,Site 6,Subject 12,Unplanned Visit (1),Form 6,HEMATOLOGY,26-OCT-2025,HGB,Hemoglobin,Missing Lab name
+AUT,Site 6,Subject 12,Unplanned Visit (1),Form 6,HEMATOLOGY,26-OCT-2025,LYM,"Lymphocytes
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,Unplanned Visit (1),Form 6,HEMATOLOGY,26-OCT-2025,MCV,"Ery. mean
+corpuscular volume",Missing Lab name
+AUT,Site 6,Subject 12,Unplanned Visit (1),Form 6,HEMATOLOGY,26-OCT-2025,NEUT,"Neutrophils
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,Unplanned Visit (1),Form 6,HEMATOLOGY,26-OCT-2025,PLAT,Platelets,Missing Lab name
+AUT,Site 6,Subject 12,Unplanned Visit (1),Form 6,HEMATOLOGY,26-OCT-2025,RBC,Erythrocytes,Missing Lab name
+AUT,Site 6,Subject 12,Unplanned Visit (1),Form 6,HEMATOLOGY,26-OCT-2025,WBC,Leukocytes,Missing Lab name
+AUT,Site 6,Subject 12,W1D1 (1),Form 3,HEMATOLOGY,14-OCT-2025,BASO,Basophils (absolute),Missing Lab name
+AUT,Site 6,Subject 12,W1D1 (1),Form 3,HEMATOLOGY,14-OCT-2025,EOS,"Eosinophils
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,W1D1 (1),Form 3,HEMATOLOGY,14-OCT-2025,HCT,Hematocrit,Missing Lab name
+AUT,Site 6,Subject 12,W1D1 (1),Form 3,HEMATOLOGY,14-OCT-2025,HGB,Hemoglobin,Missing Lab name
+AUT,Site 6,Subject 12,W1D1 (1),Form 3,HEMATOLOGY,14-OCT-2025,LYM,"Lymphocytes
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,W1D1 (1),Form 3,HEMATOLOGY,14-OCT-2025,MCV,"Ery. mean
+corpuscular volume",Missing Lab name
+AUT,Site 6,Subject 12,W1D1 (1),Form 3,HEMATOLOGY,14-OCT-2025,NEUT,"Neutrophils
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,W1D1 (1),Form 3,HEMATOLOGY,14-OCT-2025,PLAT,Platelets,Missing Lab name
+AUT,Site 6,Subject 12,W1D1 (1),Form 3,HEMATOLOGY,14-OCT-2025,RBC,Erythrocytes,Missing Lab name
+AUT,Site 6,Subject 12,W1D1 (1),Form 3,HEMATOLOGY,14-OCT-2025,WBC,Leukocytes,Missing Lab name
+AUT,Site 6,Subject 12,W1D1 (1),Form 5,URINALYSIS,14-OCT-2025,UPHST,Urine pH dipstick,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,ALB,Albumin,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,ALP,"Alkaline
+phosphatase",Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,ALT,"Alanine
+aminotransferase",Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,AMYLASE,Amylase,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,AST,"Aspartate
+aminotransferase",Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,BILDIR,Direct bilirubin,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,BILI,Bilirubin,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,BUN,Blood urea nitrogen,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,CA,Calcium,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,CREAT,Creatinine,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,CREATCLR,Creatinine clearance,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,GGT,"Gamma glutamyl
+transferase",Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,GLUCSF,"Glucose, serum,
+fasting",Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,K,Potassium,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,LDH,"Lactate
+dehydrogenase",Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,LIPASE,"Triacylglycerol
+lipase",Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,MG,Magnesium,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,SODIUM,Sodium,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 1,CHEMISTRY,04-NOV-2025,URATE,Uric acid,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 3,HEMATOLOGY,04-NOV-2025,BASO,Basophils (absolute),Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 3,HEMATOLOGY,04-NOV-2025,EOS,"Eosinophils
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 3,HEMATOLOGY,04-NOV-2025,HCT,Hematocrit,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 3,HEMATOLOGY,04-NOV-2025,HGB,Hemoglobin,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 3,HEMATOLOGY,04-NOV-2025,LYM,"Lymphocytes
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 3,HEMATOLOGY,04-NOV-2025,MCV,"Ery. mean
+corpuscular volume",Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 3,HEMATOLOGY,04-NOV-2025,NEUT,"Neutrophils
+(absolute)",Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 3,HEMATOLOGY,04-NOV-2025,PLAT,Platelets,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 3,HEMATOLOGY,04-NOV-2025,RBC,Erythrocytes,Missing Lab name
+AUT,Site 6,Subject 12,W4D1 (1),Form 3,HEMATOLOGY,04-NOV-2025,WBC,Leukocytes,Missing Lab name
+ESP,Site 14,Subject 36,Screening,Form 7,CHEMISTRY,13-AUG-2025,HBVDNA,"Hepatitis B Virus
+DNA",Ranges/ Units not entered
+ESP,Site 14,Subject 36,Screening,Form 7,CHEMISTRY,13-AUG-2025,HCVRNAPT,HCV RNA,Ranges/ Units not entered
+ESP,Site 17,Subject 62,Screening,Form 7,CHEMISTRY,29-SEP-2025,HCVRNAPT,HCV RNA,Ranges/ Units not entered
+FRA,Site 2,Subject 5,W1D1 (1),Form 5,URINALYSIS,28-OCT-2025,UPHST,Urine pH dipstick,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,ALB,Albumin,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,ALP,"Alkaline
+phosphatase",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,ALT,"Alanine
+aminotransferase",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,AST,"Aspartate
+aminotransferase",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,BILDIR,Direct bilirubin,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,BILI,Bilirubin,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,CA,Calcium,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,CREAT,Creatinine,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,CREATCLR,Creatinine clearance,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,GGT,"Gamma glutamyl
+transferase",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,GLUCSF,"Glucose, serum,
+fasting",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,K,Potassium,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,LDH,"Lactate
+dehydrogenase",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,LIPASE,"Triacylglycerol
+lipase",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,MG,Magnesium,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,SODIUM,Sodium,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,URATE,Uric acid,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 1,CHEMISTRY,03-NOV-2025,UREA,Urea,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 3,HEMATOLOGY,03-NOV-2025,BASO,Basophils (absolute),Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 3,HEMATOLOGY,03-NOV-2025,EOS,"Eosinophils
+(absolute)",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 3,HEMATOLOGY,03-NOV-2025,HCT,Hematocrit,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 3,HEMATOLOGY,03-NOV-2025,HGB,Hemoglobin,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 3,HEMATOLOGY,03-NOV-2025,LYM,"Lymphocytes
+(absolute)",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 3,HEMATOLOGY,03-NOV-2025,MCV,"Ery. mean
+corpuscular volume",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 3,HEMATOLOGY,03-NOV-2025,NEUT,"Neutrophils
+(absolute)",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 3,HEMATOLOGY,03-NOV-2025,PLAT,Platelets,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 3,HEMATOLOGY,03-NOV-2025,RBC,Erythrocytes,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 3,HEMATOLOGY,03-NOV-2025,WBC,Leukocytes,Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 4,CHEMISTRY,03-NOV-2025,T4FR,"Thyroxin, Free T4",Missing Lab name
+FRA,Site 3,Subject 7,"Follow-up_Week
+104 (1)",Form 4,CHEMISTRY,03-NOV-2025,TSH,"Thyroid stimulating
+hormone",Missing Lab name
+FRA,Site 4,Subject 9,"Unplanned Visit
+(28)",Form 8,HEMATOLOGY,29-SEP-2025,APTT,"Activated partial
+thromboplastin time",Ranges/ Units not entered
+FRA,Site 4,Subject 9,"Unplanned Visit
+(28)",Form 8,HEMATOLOGY,29-SEP-2025,INR,"Prothrombin intl.
+normalized ratio",Ranges/ Units not entered
+FRA,Site 4,Subject 9,"Unplanned Visit
+(29)",Form 9,HEMATOLOGY,15-SEP-2025,APTT,"Activated partial
+thromboplastin time",Ranges/ Units not entered
+FRA,Site 4,Subject 9,"Unplanned Visit
+(29)",Form 9,HEMATOLOGY,15-SEP-2025,INR,"Prothrombin intl.
+normalized ratio",Ranges/ Units not entered
+FRA,Site 4,Subject 9,"Unplanned Visit
+(12)",Form 10,CHEMISTRY,28-JUL-2025,T4FR,"Thyroxin, Free T4",Ranges/ Units not entered
+FRA,Site 4,Subject 9,"Unplanned Visit
+(12)",Form 10,CHEMISTRY,28-JUL-2025,TSH,"Thyroid stimulating
+hormone",Ranges/ Units not entered
+FRA,Site 4,Subject 10,Unplanned Visit (3),Form 11,HEMATOLOGY,25-AUG-2025,APTT,"Activated partial
+thromboplastin time",Ranges/ Units not entered
+FRA,Site 4,Subject 10,Unplanned Visit (3),Form 11,HEMATOLOGY,25-AUG-2025,INR,"Prothrombin intl.
+normalized ratio",Ranges/ Units not entered
+FRA,Site 4,Subject 10,W10D1 (1),Form 4,CHEMISTRY,28-JUL-2025,TSH,"Thyroid stimulating
+hormone",Ranges/ Units not entered
+FRA,Site 4,Subject 10,W19D1 (1),Form 5,URINALYSIS,07-OCT-2025,UPHST,Urine pH dipstick,Missing Lab name
+KOR,Site 12,Subject 22,Screening,Form 3,HEMATOLOGY,23-SEP-2025,EOS,"Eosinophils
+(absolute)",Ranges/ Units not entered
+KOR,Site 12,Subject 22,Screening,Form 3,HEMATOLOGY,23-SEP-2025,WBC,Leukocytes,Ranges/ Units not entered
+KOR,Site 12,Subject 22,W1D1 (1),Form 3,HEMATOLOGY,20-OCT-2025,EOS,"Eosinophils
+(absolute)",Ranges/ Units not entered
+KOR,Site 12,Subject 22,W1D1 (1),Form 3,HEMATOLOGY,20-OCT-2025,WBC,Leukocytes,Ranges/ Units not entered

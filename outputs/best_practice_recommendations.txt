@@ -1,0 +1,33 @@
+================================================================================
+MULTI-STUDY INTELLIGENCE REPORT
+================================================================================
+
+Best Performing Study: Study 14 CPID Input Files - Anonymization
+   DQI: 91.5
+   Patients: 4
+
+Worst Performing Study: Study 4
+   DQI: 74.1
+   Gap: 17.4 points
+
+RECOMMENDATIONS:
+--------------------------------------------------------------------------------
+1. 🚨 URGENT: Implement automated SAE escalation system
+   - Current: 6.4 avg pending SAE per patient
+   - Target: 0.0 (match Study 14 CPID Input Files - An)
+   - Action: Deploy automated alerts for SAE >3 days old
+   - Expected: Save ~12 days per patient, +13 DQI points
+
+3. 🎯 MEDIUM: Increase CRA site visit frequency
+   - Current: 49.1% high-risk patients (too high!)
+   - Target: <10% (industry standard)
+   - Action: Assign 2 additional CRAs to highest-risk sites
+   - Expected: Reduce high-risk by 50% in 4 weeks
+
+4. 💰 ROI PROJECTION:
+   - Implementation cost: $80,000 over 4 weeks
+   - Expected DQI improvement: +12 points
+   - Time saved to database lock: ~6 days
+   - Revenue gained (faster launch): $300,000
+   - NET ROI: $220,000 (275% return)
+

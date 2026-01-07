@@ -1,0 +1,17 @@
+Study,Avg_DQI,DQI_Std,Min_DQI,Max_DQI,Total_Patients,Avg_SAE,Avg_Overdue_Visits,Avg_Missing_Pages,High_Risk_Patients,High_Risk_Pct
+Study 14 CPID Input Files - Anonymization,91.5,0.0,91.5,91.5,4,0.0,0.0,0.0,0,0.0
+Study 2,90.6,1.75,82.5,91.5,80,0.0,0.3,0.01,0,0.0
+Study 11 CPID Input Files - Anonymization,90.55,1.58,85.5,91.5,484,0.0,0.31,0.02,0,0.0
+Study 9 CPID Input Files - Anonymization,90.54,1.57,85.5,91.5,181,0.0,0.31,0.06,0,0.0
+Study 25 CPID Input Files - Anonymization,90.5,1.71,79.5,91.5,1375,0.0,0.33,0.03,0,0.0
+Study 5,90.49,1.71,82.5,91.5,679,0.0,0.34,0.02,0,0.0
+Study 8 CPID Input Files - Anonymization,90.45,1.67,82.5,91.5,653,0.0,0.35,0.01,0,0.0
+Study 18 CPID Input Files - Anonymization,90.42,1.71,82.5,91.5,214,0.0,0.36,0.01,0,0.0
+Study 7 CPID Input Files - Anonymization,90.35,1.48,88.5,91.5,34,0.0,0.38,0.0,0,0.0
+Study 17 CPID Input Files - Anonymization,90.28,1.83,85.5,91.5,49,0.0,0.41,0.0,0,0.0
+Study 13 CPID Input Files - Anonymization,90.27,2.15,82.5,91.5,23,0.0,0.39,0.17,0,0.0
+Study 1,90.25,2.31,79.5,91.5,99,0.0,0.41,0.03,0,0.0
+Study 10 CPID Input Files - Anonymization,90.23,1.96,85.5,91.5,82,0.0,0.41,0.07,0,0.0
+Study 6,89.72,2.64,79.5,91.5,54,0.0,0.59,0.0,0,0.0
+Study 16 CPID Input Files - Anonymization,89.25,3.34,76.5,91.5,671,0.0,0.76,0.01,0,0.0
+Study 4,74.14,16.43,47.5,91.5,1555,6.37,0.28,0.02,763,49.1
